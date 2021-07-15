@@ -32,14 +32,14 @@ I'm a passionate professional web developer, writer and startup enthusiast.
 
 - 🔭 I’m currently working on [weatherapp](https://github.com/rashoba/realweatherapp)
 - 🌱 I’m currently learning React and Nodejs
-- 👯 I’m currently contributing to Open Source via [Rollademy](https://github.com/rollademy/)
+- 👯 I’m contributing to Open Source via [Rollademy](https://github.com/rollademy/)
 - 🤔 I’m looking to work with more dev around the world
-- 📫 How to reach me via DM: http://www.twitter.com/STEMInstructor_
+- 📫 How to reach me via DM on Twitter: @STEMInstructor_
 - Also Contributing to Opensource at [WeFOSS](https://github.com/WE-FOSS)
 
 ***
 
-[![Rasheedah's GitHub stats](https://github-readme-stats.vercel.app/api?username=fawazsullia&show_icons=true&theme=dracula)](https://github.com/fawazsullia/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fawazsullia&layout=compact)](https://github.com/fawazsullia/github-readme-stats)
+[![Rasheedah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashoba&show_icons=true&theme=dracula)](https://github.com/fawazsullia/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashoba&layout=compact)](https://github.com/fawazsullia/github-readme-stats)
 
 
 
