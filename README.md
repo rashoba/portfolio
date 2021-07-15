@@ -2,8 +2,6 @@
 
 I'm a passionate professional web developer, writer and startup enthusiast. 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rashoba)
-
 ***
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
